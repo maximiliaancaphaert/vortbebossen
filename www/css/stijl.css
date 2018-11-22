@@ -1,0 +1,150 @@
+*{
+	margin: 0;
+	padding: 0;
+	border-width: 0;
+}
+article,aside,figcaption,figure,footer,header,hgroup,main,
+nav,section {
+	display:block;
+}
+body{
+	font-family: 'Source Sans Pro', sans-serif;
+	color: #393B28;
+	background-color: #F8FFBF;
+	min-width: 1000px;
+	font-size: 1em;
+
+}
+header{
+	background-color: #B5BA8B;
+	margin: 40px;
+}
+h1{
+	background-color: #F8FFBF;
+	font-size: 4vw;
+}
+img{
+	width: 50%;
+}
+div{
+	overflow: hidden;
+}
+div p{
+	padding-left: 5%;
+	text-align: left
+	width: 40%;
+	padding: 2% 2%;
+}
+p{
+	font size: 1em;
+}
+#foto1{
+	float: right;
+	width: 45%;
+	padding-left: 5%;
+}
+h2{
+	font-size: 2em;
+
+}
+#section1{
+	background-color: #CBCFAE;
+	margin: 2% 15%;
+	padding: 2% 5%;
+}
+#foto2{
+	width: 55%;
+	padding-top: 20px;
+}
+#fauna{
+	background-color: white;
+	padding: 10px 0;
+	margin: 0 25%;
+	text-align: center;
+	border-bottom: solid 6px #CBCFAE; 
+
+}
+#faunatekst{
+	width: 70%;
+	padding-top: 5px;
+	margin-left: 14.5%;
+	border-left: solid 5px #CBCFAE;
+}
+#fotos img{
+	width: 30%;
+}
+#fotos{
+	padding-left: 10%;
+	padding-top: 10px;
+	padding-bottom: 15px;
+
+}
+#faunatekst2{
+	width: 70%;
+	background-color: #CBCFAE;
+	margin: 0 auto;
+}
+#sectionbeheer{
+	padding-top: 30px;
+}
+#beheer{
+	background-color: white;
+	padding: 10px 0;
+	margin: 0 25%;
+	text-align: center;
+	border-bottom: solid 6px #CBCFAE;
+}
+#beheertekst{
+	width: 70%;
+	padding-top: 5px;
+	margin-left: 14.5%;
+	border-left: solid 5px #CBCFAE;
+	margin-bottom: 30px;
+	padding-left: 15px;
+}
+#scroll{
+	height: 600px;
+	background-size: cover;
+  	background-attachment: fixed;
+  	background-repeat: no-repeat;
+  	background-position: center center;
+  	background-image: url("../images/begrazing.jpg");
+  	margin-bottom: 30px;
+}
+#beheertekst2{
+
+	width: 70%;
+	background-color: #CBCFAE;
+	margin: 0 auto;
+	border-bottom: white solid 7px;
+}
+#toegangsection{
+	background-color: #B5BA8B;
+	margin: 2% 15%;
+	padding: 2% 3%;
+}
+#toegangsection figure{
+	padding-top: 20px;
+}
+#toegangsection h2{
+	border-bottom: solid 3px #CBCFAE;
+	padding-bottom: 20px;
+}
+#toegangsection p{
+	padding-top: 10px;
+}
+aside h2{
+	background-color: white;
+	padding: 10px 0;
+	margin: 0 25%;
+	text-align: center;
+	border-bottom: solid 6px #CBCFAE; 
+}
+aside p{
+	width: 70%;
+	padding-top: 5px;
+	margin-left: 14.5%;
+	border-left: solid 5px #CBCFAE;
+	margin-bottom: 30px;
+	padding-left: 15px;
+}
